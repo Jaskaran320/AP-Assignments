@@ -1,0 +1,1 @@
+This folder contains the code for Assignment 2. Here, 3 interfaces have been made - assess, comments, material. 6 classes have been made - instructor, student, comment, assessment, lecmaterial, public class assgn2 and Reader class.
